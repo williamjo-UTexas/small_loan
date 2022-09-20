@@ -2,7 +2,11 @@ entering random text here - EC
 
 
 
-banana - WJ
+<<<<<<< HEAD
+banana EC added random text
+=======
+banana - WJ EC manual edits
+>>>>>>> ba8ab605a321f268160a5234bd6aa75fa6832f0b
 
 
 i have stuff written here - WJ
