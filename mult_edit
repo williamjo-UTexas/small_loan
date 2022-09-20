@@ -16,12 +16,14 @@ banana - WJ EC manual edits
 
 i have stuff written here - WJ
 
+straight down
 
 small loan 
 
 delete this line "this should be on dev only"
 
 
+<<<<<<< HEAD
 
 
 
@@ -35,4 +37,6 @@ delete this line "this should be on dev only"
 
 
 
-straight down
+=======
+added to mult edit on wj branch
+>>>>>>> WJbranch
