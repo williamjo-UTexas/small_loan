@@ -1,9 +1,14 @@
 entering random text here - EC
 
+<<<<<<< HEAD
 i have written this on main
+=======
+added only on main
+>>>>>>> dev
 
 <<<<<<< HEAD
 banana EC added random text
+
 =======
 banana - WJ EC manual edits
 >>>>>>> ba8ab605a321f268160a5234bd6aa75fa6832f0b
@@ -14,5 +19,5 @@ i have stuff written here - WJ
 
 small loan 
 
-this should be on dev only
+delete this line "this should be on dev only"
 
